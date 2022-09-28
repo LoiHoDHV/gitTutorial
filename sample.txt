@@ -1,3 +1,5 @@
 den ca con khi cung hieu duoc lenh Git
 add: dang ky thay doi trong index
 pull: lay noi dung cua remote repository
+commit: luu lai trang thai cua index
+
